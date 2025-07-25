@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/luqmannnn/serverless-package-scan/issues"
   },
-  "homepage": "https://github.com/luqmannnn/serverless-package-scan#readme"
+  "homepage": "https://github.com/luqmannnn/serverless-package-scan#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
 }
